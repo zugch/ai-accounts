@@ -1,0 +1,72 @@
+/* Allgemeine Stilregeln */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Übersichtsseite */
+h2 {
+  color: #333;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Detailseite */
+.detail-container {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+.detail-container h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.detail-container ul {
+  padding-left: 20px;
+}
+
+.detail-container ul li {
+  margin: 10px 0;
+}
+
+/* Zurück-Button */
+.back-button {
+  margin-top: 20px;
+}
+
+/* Reaktion auf kleine Bildschirme (responsives Design) */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  .detail-container {
+    padding: 15px;
+  }
+}

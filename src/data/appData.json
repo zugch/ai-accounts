@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "uid": "1",
+      "appName": "Beispiel-App 1",
+      "iconLink": "https://example.com/app1-icon.png",
+      "faqs": [
+        {
+          "question": "Frage 1",
+          "answer": "Antwort 1"
+        },
+        {
+          "question": "Frage 2",
+          "answer": "Antwort 2"
+        }
+      ]
+    },
+    {
+      "uid": "2",
+      "appName": "Beispiel-App 2",
+      "iconLink": "https://example.com/app2-icon.png",
+      "faqs": [
+        {
+          "question": "Frage 1",
+          "answer": "Antwort 1"
+        },
+        {
+          "question": "Frage 2",
+          "answer": "Antwort 2"
+        }
+      ]
+    }
+  ]
+}
