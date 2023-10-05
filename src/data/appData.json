@@ -3,7 +3,7 @@
     {
       "uid": "1",
       "appName": "Beispiel-App 1",
-      "iconLink": "https://example.com/app1-icon.png",
+      "iconLink": "https://source.unsplash.com/random/150x150", 
       "faqs": [
         {
           "question": "Frage 1",
@@ -18,7 +18,7 @@
     {
       "uid": "2",
       "appName": "Beispiel-App 2",
-      "iconLink": "https://example.com/app2-icon.png",
+      "iconLink": "https://source.unsplash.com/random/150x150", 
       "faqs": [
         {
           "question": "Frage 1",
